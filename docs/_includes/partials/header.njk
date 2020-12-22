@@ -1,9 +1,5 @@
 <header>
   <div class="content-area">
-    <button id="mobile-menu-trigger">
-      <span class="sr-only">Show Menu</span>
-      {{ '/_assets/burger-menu.svg' | asset | toAbsPath | inlineFilePath | safe }}
-    </button>
     <a class="logo-link" href="{{ '/' | url }}">
   <img src="{{ '/_assets/logo.svg' | asset | url }}" alt="{{ site.logoAlt }}" />
   <span>{{ site.name }}</span>
@@ -15,8 +11,6 @@
               {% if (page.url.search(entry.url) !== -1) and (page.url !== '/') %} active {% endif %}
             ">{{ entry.data.eleventyNavigation.key }}</a>
     {%- endfor %}
-
-    <launch-dark-switch class="light-dark-switch" label="Toggle darkmode"></launch-dark-switch>
 
     {% include 'search/input.njk' %}
 
