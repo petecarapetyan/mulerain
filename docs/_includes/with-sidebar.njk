@@ -22,11 +22,10 @@
 
 {% block main %}
   <main class="markdown-body">
-    {% include 'partials/addTitleHeadline.njk' %}
+    <h1 id="content-top">
+    {{ title }}
+  </h1>
 
     {{ content.html | safe }}
-
-    {% include 'partials/previousNext.njk' %}
-    {% include 'partials/content-footer.njk' %}
   </main>
 {% endblock main %}

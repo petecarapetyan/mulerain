@@ -4,14 +4,10 @@
       <span class="sr-only">Show Menu</span>
       {{ '/_assets/burger-menu.svg' | asset | toAbsPath | inlineFilePath | safe }}
     </button>
-    {% if layout === "home.njk" and rocketLaunch.homeLayout === "background" %}
-      <a class="logo-link" href="{{ '/' | url }}">
-        <img src="{{ '/_assets/logo.svg' | asset | url }}" alt="{{ site.logoAlt }}" />
-        <span class="sr-only">{{ site.name }}</span>
-      </a>
-    {% else %}
-      {% include 'partials/logoLink.njk' %}
-    {% endif %}
+    <a class="logo-link" href="{{ '/' | url }}">
+  <img src="{{ '/_assets/logo.svg' | asset | url }}" alt="{{ site.logoAlt }}" />
+  <span>{{ site.name }}</span>
+</a>
 
     {%- for entry in collections.header %}
       <a href="{{ entry.url | url }}" class="
