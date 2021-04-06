@@ -2,16 +2,17 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'Rocket',
-    description: 'Rocket is the way to build fast static websites with a sprinkle of javascript',
+    name: 'pickle diamonds',
+    description: 'not-next is a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/dakmor/rocket',
+        url: 'https://github.com/petecarapetyan/rocket-themes/tree/main/not-next/src/docs',
       },
     ],
-    gitSiteUrl: 'https://github.com/dakmor/rocket',
-    helpUrl: 'https://github.com/daKmoR/rocket/issues',
+    gitSiteUrl: 'https://github.com/petecarapetyan/rocket-themes',
+    gitBranch: 'main',
+    helpUrl: 'https://github.com/petecarapetyan/rocket-themes/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
