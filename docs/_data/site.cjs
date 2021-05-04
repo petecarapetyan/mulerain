@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'pickle diamonds',
-    description: 'not-next is a customizeable theme, for the Rocket SSG',
+    description: 'This site is a demo of `not-next`, a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
         name: 'GitHub',
@@ -18,5 +18,7 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
+    analyticsUA: 'UA-52870008-13',
+    analyticsGA4: 'G-XLJMY8DLKT'
   };
 };
