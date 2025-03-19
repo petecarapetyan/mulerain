@@ -17,7 +17,7 @@ Duis officia minim ea incididunt excepteur nisi. Et id magna exercitation adipis
 
 ## tempor ad
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-fkaregan-QgaicFpl1ZI.jpg" alt="bulksplash-fkaregan-QgaicFpl1ZI.jpg" />
+<img class="bordered" src="/static/images/bulksplash-fkaregan-QgaicFpl1ZI.jpg" alt="bulksplash-fkaregan-QgaicFpl1ZI.jpg" />
 
 Anim velit labore ullamco deserunt consequat sint eiusmod minim duis quis id. Incididunt mollit do nostrud commodo dolor ullamco labore laborum.
 

@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## enim esse
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-davidclode-qORaE9FkcL0.jpg" alt="bulksplash-davidclode-qORaE9FkcL0.jpg" />
+<img class="bordered" src="/static/images/bulksplash-davidclode-qORaE9FkcL0.jpg" alt="bulksplash-davidclode-qORaE9FkcL0.jpg" />
 
 Magna aute do nostrud cupidatat tempor cupidatat non eu esse irure nostrud cillum et ea excepteur. Voluptate pariatur sint officia officia esse veniam cupidatat elit ea do sit anim eu.
 

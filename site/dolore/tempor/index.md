@@ -21,6 +21,6 @@ Velit duis exercitation duis mollit dolor ad anim adipisicing in esse nisi nulla
 
 ## reprehenderit
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-enka80-m0oeEBwpmWw.jpg" alt="bulksplash-enka80-m0oeEBwpmWw.jpg" />
+<img class="bordered" src="/static/images/bulksplash-enka80-m0oeEBwpmWw.jpg" alt="bulksplash-enka80-m0oeEBwpmWw.jpg" />
 
 Nostrud Lorem anim fugiat qui ex minim pariatur nisi et dolore elit quis dolor irure sit. Duis excepteur et non veniam qui culpa aliqua. Velit aute id ad dolor ex est consequat. Non elit enim labore officia laboris. Esse voluptate consequat qui ullamco cillum minim non. Nulla aute aliqua in aliquip excepteur mollit consequat cillum. Aliquip quis est mollit ipsum et.

@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## dolor
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-davidclode-qORaE9FkcL0.jpg" alt="bulksplash-davidclode-qORaE9FkcL0.jpg" />
+<img class="bordered" src="/static/images/bulksplash-davidclode-qORaE9FkcL0.jpg" alt="bulksplash-davidclode-qORaE9FkcL0.jpg" />
 
 Sit qui amet proident cillum culpa mollit aliquip non aute in et ea aliqua reprehenderit. Mollit laborum magna pariatur dolor ut officia id non non incididunt sunt sint cillum excepteur. Cillum et ipsum tempor nostrud mollit anim aliqua labore ullamco pariatur ipsum.
 

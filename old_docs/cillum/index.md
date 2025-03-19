@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Cillum
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-bencollins-u2e5yxz_qQo.jpg" alt="bulksplash-bencollins-u2e5yxz_qQo.jpg" />
+<img class="bordered" src="/static/images/bulksplash-bencollins-u2e5yxz_qQo.jpg" alt="bulksplash-bencollins-u2e5yxz_qQo.jpg" />
 
 Elit pariatur sint mollit sit eu adipisicing qui commodo laboris minim laboris amet laboris. Dolore occaecat ut non ipsum ad. Sunt exercitation nulla ex aliqua ad ea amet veniam anim nisi Lorem nisi reprehenderit adipisicing. Ullamco consequat dolore mollit aliqua Lorem minim. Adipisicing nostrud sunt esse deserunt irure aute nisi aliqua magna quis amet velit enim duis. Veniam duis qui do eu sunt proident cupidatat non veniam commodo aliqua. Ut tempor dolor Lorem. Qui id aliquip mollit incididunt aute.
 

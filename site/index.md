@@ -10,7 +10,7 @@ callToActionItems:
     href: /ipsum-non/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-alimanov18marlen-mwYWQ-J09ZM.jpg"
+      src="/static/images/bulksplash-alimanov18marlen-mwYWQ-J09ZM.jpg"
       alt="bulksplash-alimanov18marlen-mwYWQ-J09ZM.jpg" />
   - title: excepteur et amet
     text: >-
@@ -20,7 +20,7 @@ callToActionItems:
     href: /dolore/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg"
+      src="/static/images/bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg"
       alt="bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg" />
 
 teaserTitle: commodo dolor in quis
@@ -34,7 +34,7 @@ feature:
   href: /cillum/consequat-dolor/
   img: >-
     <img class="bordered"
-    src="/_merged_assets/_static/images/bulksplash-daoud_abismail-5DKFHoEJv-4.jpg"
+    src="/static/images/bulksplash-daoud_abismail-5DKFHoEJv-4.jpg"
     alt="bulksplash-daoud_abismail-5DKFHoEJv-4.jpg" />
 
 teasers:
@@ -43,14 +43,14 @@ teasers:
     href: /ipsum-non/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-lackingnothing-jOjZncMBfa4.jpg"
+      src="/static/images/bulksplash-lackingnothing-jOjZncMBfa4.jpg"
       alt="bulksplash-lackingnothing-jOjZncMBfa4.jpg" />
   - title: irure excepteur duis dolor
     text: Do consectetur officia magna. Esse velit mollit elit consectetur sint.
     href: /ipsum-non/amet-pariatur/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-sabinasturzu--Vxz7_RtoeE.jpg"
+      src="/static/images/bulksplash-sabinasturzu--Vxz7_RtoeE.jpg"
       alt="bulksplash-sabinasturzu--Vxz7_RtoeE.jpg" />
   - title: labore Lorem anim esse cupidatat
     text: >-
@@ -59,7 +59,7 @@ teasers:
     href: /ipsum-non/laborum/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-amyshamblen-_tj1qgMrQNY.jpg"
+      src="/static/images/bulksplash-amyshamblen-_tj1qgMrQNY.jpg"
       alt="bulksplash-amyshamblen-_tj1qgMrQNY.jpg" />
   - title: aliqua in id
     text: >-
@@ -69,21 +69,21 @@ teasers:
     href: /ipsum-non/consectetur-non/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aples-0bltbD1CZCU.jpg"
+      src="/static/images/bulksplash-aples-0bltbD1CZCU.jpg"
       alt="bulksplash-aples-0bltbD1CZCU.jpg" />
   - title: laborum in dolore ipsum
     text: Amet voluptate id ea et exercitation velit.
     href: /dolore/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aldebarans-dJlkMGUn9n4.jpg"
+      src="/static/images/bulksplash-aldebarans-dJlkMGUn9n4.jpg"
       alt="bulksplash-aldebarans-dJlkMGUn9n4.jpg" />
   - title: ex reprehenderit pariatur cupidatat do
     text: Ipsum reprehenderit in aliquip mollit pariatur id do labore.
     href: /dolore/tempor/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
+      src="/static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
       alt="bulksplash-ger46-CgkSaLNzc-8.jpg" />
   - title: aliquip aute adipisicing
     text: >-
@@ -92,7 +92,7 @@ teasers:
     href: /dolore/aute-fugiat/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-cameaagi-m80mGPPSM0c.jpg"
+      src="/static/images/bulksplash-cameaagi-m80mGPPSM0c.jpg"
       alt="bulksplash-cameaagi-m80mGPPSM0c.jpg" />
   - title: voluptate quis dolore
     text: >-
@@ -101,14 +101,14 @@ teasers:
     href: /dolore/culpa/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
+      src="/static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
       alt="bulksplash-ger46-CgkSaLNzc-8.jpg" />
   - title: laboris adipisicing ipsum minim magna
     text: Ut officia anim nulla ea sunt deserunt Lorem ullamco.
     href: /cillum/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-danilal-OOnwn7Ir9aU.jpg"
+      src="/static/images/bulksplash-danilal-OOnwn7Ir9aU.jpg"
       alt="bulksplash-danilal-OOnwn7Ir9aU.jpg" />
   - title: cupidatat elit sint aute esse
     text: >-
@@ -118,7 +118,7 @@ teasers:
     href: /cillum/deserunt-minim/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-amyshamblen-GVu2B8IJrCk.jpg"
+      src="/static/images/bulksplash-amyshamblen-GVu2B8IJrCk.jpg"
       alt="bulksplash-amyshamblen-GVu2B8IJrCk.jpg" />
   - title: ea ullamco excepteur ea
     text: >-
@@ -127,7 +127,7 @@ teasers:
     href: /cillum/consequat-dolor/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aples-0bltbD1CZCU.jpg"
+      src="/static/images/bulksplash-aples-0bltbD1CZCU.jpg"
       alt="bulksplash-aples-0bltbD1CZCU.jpg" />
 
 ---

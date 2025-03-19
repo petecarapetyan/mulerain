@@ -17,6 +17,6 @@ Pariatur amet mollit eu nulla ullamco consequat anim labore qui laborum quis lab
 
 ## amet officia
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-enka80-m0oeEBwpmWw.jpg" alt="bulksplash-enka80-m0oeEBwpmWw.jpg" />
+<img class="bordered" src="/static/images/bulksplash-enka80-m0oeEBwpmWw.jpg" alt="bulksplash-enka80-m0oeEBwpmWw.jpg" />
 
 In aliqua anim voluptate laboris eu sunt anim dolore exercitation nisi nulla. Amet in id cupidatat. Ea nulla veniam id fugiat aute mollit exercitation. Aliqua laborum laborum officia sunt.

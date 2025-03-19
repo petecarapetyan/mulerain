@@ -17,6 +17,6 @@ Mollit ullamco adipisicing sit id sunt velit dolore exercitation. Minim laboris 
 
 ## commodo
 
-<img class="bordered" src="/_merged_assets/_static/images/bulksplash-hakannural-g_4t60hf4hw.jpg" alt="bulksplash-hakannural-g_4t60hf4hw.jpg" />
+<img class="bordered" src="/static/images/bulksplash-hakannural-g_4t60hf4hw.jpg" alt="bulksplash-hakannural-g_4t60hf4hw.jpg" />
 
 Dolor laborum aliqua sit eu sint reprehenderit nisi laborum excepteur minim. Sunt enim nulla nulla laborum do id enim ad proident nulla magna ad. Cillum officia minim voluptate exercitation. Ad elit occaecat pariatur commodo ullamco enim consequat quis Lorem laborum do ut aliquip elit eiusmod. Reprehenderit ad eiusmod ad qui et voluptate elit nisi aliqua irure eu. Incididunt quis aliqua officia cillum. Aliquip magna pariatur eu minim ipsum adipisicing. Consequat minim tempor et nostrud dolor amet occaecat magna sint anim.
